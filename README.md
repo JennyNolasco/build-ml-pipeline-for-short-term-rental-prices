@@ -8,6 +8,7 @@ In this project you will build such a pipeline.
 
 ## Table of contents
 
+- [Wandb Project](#wandb_project)
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
 - [Preliminary steps](#preliminary-steps)
   * [Fork the Starter Kit](#fork-the-starter-kit)
@@ -31,6 +32,8 @@ In this project you will build such a pipeline.
   * [Train the model on a new data sample](#train-the-model-on-a-new-data-sample)
 - [Cleaning up](#cleaning-up)
 
+
+## Wandb Project https://wandb.ai/jeniffernolasco/nyc_airbnb
 ## Preliminary steps
 ### Fork the Starter kit
 Go to [https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices.git](https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices.git)
