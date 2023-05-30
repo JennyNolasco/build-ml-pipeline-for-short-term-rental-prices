@@ -7,6 +7,7 @@ import logging
 import wandb
 import mlflow
 import pandas as pd
+import pickle
 from sklearn.metrics import mean_absolute_error
 
 from wandb_utils.log_artifact import log_artifact
